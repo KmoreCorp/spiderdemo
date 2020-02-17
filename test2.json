@@ -1,0 +1,117 @@
+{
+  "imdb": "tt8649186",
+  "@context": "http://schema.org",
+  "name": "基督圣体 Boże Ciało",
+  "url": "/subject/30462527/",
+  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2567988621.jpg",
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1043910/",
+      "name": "扬·科马萨 Jan Komasa"
+    }
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430745/",
+      "name": "马特兹·帕斯维克兹 Mateusz Pacewicz"
+    }
+  ],
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/celebrity/1430766/",
+      "name": "巴托斯·比莱尼亚 Bartosz Bielenia"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1170399/",
+      "name": "亚历山德拉·康涅兹娜 Aleksandra Konieczna"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1390769/",
+      "name": "伊莱扎·莱辛姆波 Eliza Rycembel"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1361912/",
+      "name": "托马斯·兹代克 Tomasz Zietek"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1108992/",
+      "name": "芭芭拉·库尔扎伊 Barbara Kurzaj"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1238090/",
+      "name": "赖塞科·利希塔 Leszek Lichota"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1165131/",
+      "name": "泽兹斯拉乌·瓦尔德金 Zdzislaw Wardejn"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1190690/",
+      "name": "卢卡斯·辛拉特 Lukasz Simlat"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1254940/",
+      "name": "莉迪亚·博加茨 Lidia Bogacz"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1205881/",
+      "name": "博格丹·布勒斯基 Bogdan Brzyski"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1213900/",
+      "name": "朱利叶斯·克尔扎斯托夫斯基 Juliusz Chrzastowski"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1088755/",
+      "name": "安德烈·弗朗西克 Andrzej Franczyk"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1128080/",
+      "name": "海伦娜·诺罗维茨 Helena Norowicz"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1210559/",
+      "name": "达里乌斯·斯塔切夫斯基 Dariusz Starczewski"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1377208/",
+      "name": "玛尔塔·瓦尔代拉 Marta Waldera"
+    },
+    {
+      "@type": "Person",
+      "url": "/celebrity/1374191/",
+      "name": "托马斯·洛索 Tomasz Wlosok"
+    }
+  ],
+  "datePublished": "2019-08-29",
+  "genre": [
+    "剧情"
+  ],
+  "duration": "PT1H56M",
+  "description": "本片由扬·科马萨执导，讲述20岁的丹尼尔在青年管教所生活时所经历的精神转变。他想要成为一名牧师，但由于他的犯罪记录，这让他的理想变得不可能。而当他被送到一个小镇的木匠工作室工作时，他乔装成一名牧师，并...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3055",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "7.6"
+  }
+}
